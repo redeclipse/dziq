@@ -1,19 +1,21 @@
-Made by SniperGoth, using Blender and PDN.
+Attribution-ShareAlike 
+CC BY-SA
 
-Content included in the game (maps, textures, sounds, models etc.) may have
-individual copyrights and distribution restrictions (see individual readmes),
-note that all content in Red Eclipse is intended to be "open source" friendly.
+This license lets you remix, tweak, and build upon my work, even for commercial purposes, as long as you give credit and license new creations under the identical terms.
 
-In the absence of an explicit license, content is considered to be covered by
-the CC-BY-SA license, either version 3.0 or (at your option) any later version,
-you may use the content in Red Eclipse so long as you obey individual
-licensing criteria.
 
-    Red Eclipse, Copyright (C) 2009-2016 Red Eclipse Team
-    Creative Commons Attribution ShareAlike 3.0+ License (CC-BY-SA)
-    See cc-by-sa.txt or http://creativecommons.org/licenses/by-sa/3.0/
 
-For a license breakdown of all content in Red Eclipse, see all-licenses.txt.
 
-The use of trademarks unique to the Red Eclipse project are in addition
-governed by the Red Eclipse Mark Policy (see trademark.txt).
+ASSETS made by Radek Jedrecki (Dziq), specially for 'Red Eclipse' game
+arwu84@gmail.com
+
+
+
+
+SPECIAL THANKS TO: (Random order)
+-------------------
+Philip Klevestav    -for making a "pan_floor02a.png" texture that I used as a base
+restcoster          -for nice suggestions and testing
+bonifarz            -for encouraging and helping with many stuff
+
+..and everyone who enjoyed this package :)
